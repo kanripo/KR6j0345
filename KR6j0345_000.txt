@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大乘金剛髻珠菩薩修行分
+#+DATE: 2015-08-30 20:30:38.769720
+#+PROPERTY: JUAN 0
